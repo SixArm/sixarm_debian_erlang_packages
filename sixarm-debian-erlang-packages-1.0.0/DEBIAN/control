@@ -1,0 +1,10 @@
+Package: sixarm-debian-erlang-packages
+Version: 1.0.0
+Section: devel
+Priority: optional
+Architecture: all
+Depends: erlang, erlang-base, erlang-manpages, erlang-doc, erlang-ic-java, erlang-observer, fop
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: Erlang stack of pacakges we like to use
+ Erlang packages we like to use together.
+
