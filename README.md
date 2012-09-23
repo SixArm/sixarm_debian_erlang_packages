@@ -1,4 +1,4 @@
-# SixArm.com » Debian » <br> Java programming and related packages
+# SixArm.com » Debian » <br> Erlang programming and related packages
 
 To add our repositority to your sources:
 
@@ -11,7 +11,7 @@ Add this line:
 To install:
 
     apt-get update
-    apt-get install sixarm-debian-java-packages
+    apt-get install sixarm-debian-erlang-packages
 
 To contact us with your questions, comments, and suggestions:
 
