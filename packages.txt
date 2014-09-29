@@ -1,0 +1,7 @@
+erlang
+erlang-base
+erlang-manpages
+erlang-doc
+erlang-ic-java
+erlang-observer
+fop
